@@ -1,1 +1,4 @@
-{ "name": "Ruboto: Ruby in Your Pocket", "sections": [ {"section":"intro"} ]}
+{ "name": "Ruboto: Ruby in Your Pocket", "sections": [
+  {"section":"intro"},
+  {"section":"android-api"}
+]}

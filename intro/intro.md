@@ -19,3 +19,7 @@
 # Android #
 
 * JVM!
+
+!SLIDE center
+
+![JRuby](jrubylogo.png)
