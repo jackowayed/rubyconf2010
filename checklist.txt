@@ -1,0 +1,5 @@
+* Turn off WiFi
+* Kill Notifo
+* Kill everything unnecessary
+* Start everything necessary
+* Relax
