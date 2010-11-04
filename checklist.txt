@@ -3,3 +3,6 @@
 * Kill everything unnecessary
 * Start everything necessary
 * Relax
+* Phone in airplane mode
+* Turn off sound
+
