@@ -1,5 +1,8 @@
-!SLIDE bullets
+!SLIDE
+
 # Android API #
+
+!SLIDE bullets
 
 * Activity
 * View

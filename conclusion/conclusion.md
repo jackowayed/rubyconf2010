@@ -18,5 +18,5 @@
 # Questions? #
 
 * Ask now
-* Find me laterm
+* Find me later
 

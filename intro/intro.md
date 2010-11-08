@@ -15,6 +15,10 @@
 
 * No Ruby for you!
 
+!SLIDE center
+
+![iPhone 4](jobs-iphone-4.jpg)
+
 !SLIDE bullets incremental
 # Android #
 

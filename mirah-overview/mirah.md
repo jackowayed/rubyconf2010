@@ -24,9 +24,9 @@
 
     @@@ruby
     def fib(a:fixnum)
-    if a < 2
-      a
-    else
-      fib(a - 1) + fib(a - 2)
+      if a < 2
+        a
+      else
+        fib(a - 1) + fib(a - 2)
       end
     end

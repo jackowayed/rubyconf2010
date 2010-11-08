@@ -54,3 +54,19 @@
 		end
 	  end
     end #close handle_create block (prev slide)
+
+!SLIDE bullets
+
+# Install #
+
+* $ rake install # builds .apk, installs to emulator
+* 
+* $ rake; adb install -r -d bin/*-debug.apk
+
+* **Must use JRuby's rake**
+* $ jruby -S rake ...
+* $ rvm use jruby
+
+!SLIDE
+
+# rake update_scripts #

@@ -6,10 +6,14 @@
 !SLIDE
 # Origin #
 
-!SLIDE bullets
+!SLIDE center
 # Ruboto-irb #
 
-* Charles Oliver Nutter--JRuby core team, Mirah
+![Download](ruboto-irb-qr.png)
+
+!SLIDE bullets
+
+* Charles Nutter
 * IRB
 * Scripts
 
@@ -32,8 +36,8 @@
 * Write 0 XML
 
 !SLIDE bullets incremental
-# Completed Goals #
+# Ways it Can Be Better #
 
-* 
-* 
-* (none)
+* Ruby
+* `rake update_scripts`
+* Abstractions
