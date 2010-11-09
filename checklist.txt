@@ -1,8 +1,22 @@
 * Turn off WiFi
 * Kill Notifo
 * Kill everything unnecessary
-* Start everything necessary
+* Start emulator
+* Test irb
+* Test Ruboto
+* Test Mirah
+* Kill emulator
+* Open irb
+* Open emacs with Garrett
+* Run showoff
+* Open slides
+* Kill everything unnecessary
 * Relax
 * Phone in airplane mode
 * Turn off sound
 
+During
+
+* Slow
+* Either say jokes or don't--don't swallow them.
+* Zoom in on small code
