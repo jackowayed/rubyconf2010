@@ -70,3 +70,8 @@
 !SLIDE
 
 # rake update_scripts #
+
+!SLIDE
+
+# Accelerometer Demo #
+

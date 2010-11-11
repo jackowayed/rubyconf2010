@@ -1,3 +1,9 @@
+!SLIDE center
+
+# Install ruboto-irb #
+
+![Download](ruboto-irb-qr.png)
+
 !SLIDE 
 # Ruboto: Ruby in Your Pocket #
 

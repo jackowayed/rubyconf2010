@@ -27,3 +27,8 @@
 * Ask now
 * Find me later
 
+!SLIDE bullets
+
+# Links #
+
+* http://blog.danieljackoway.com/rubyconf-2010
