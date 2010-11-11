@@ -4,7 +4,7 @@
 !SLIDE bullets
 # Prerequisites #
 
-* Java
+* JDK
 * JRuby (rvm)
 * Android SDK
 * Generate an emulator
@@ -61,7 +61,7 @@
 
 * $ rake install # builds .apk, installs to emulator
 * 
-* $ rake; adb install -r -d bin/*-debug.apk
+* $ rake; adb -d install -r bin/*-debug.apk
 
 * **Must use JRuby's rake**
 * $ jruby -S rake ...

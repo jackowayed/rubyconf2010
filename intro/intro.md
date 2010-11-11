@@ -3,21 +3,17 @@
 
 ## Daniel Jackoway ##
 
-!SLIDE bullets incremental
+!SLIDE bullets
 # Mobile #
 
 * Innovation
 * Lucrative
-* Lame languages
+* Objective-C, Java
 
 !SLIDE bullets incremental
 # Apple #
 
 * No Ruby for you!
-
-!SLIDE center
-
-![iPhone 4](jobs-iphone-4.jpg)
 
 !SLIDE bullets incremental
 # Android #

@@ -1,3 +1,10 @@
+!SLIDE bullets
+# Ways Ruboto Can Win #
+
+* Ruby
+* `rake update_scripts`
+* Abstractions
+
 !SLIDE bullets incremental
 # HELP #
 

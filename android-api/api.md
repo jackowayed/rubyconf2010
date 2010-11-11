@@ -13,6 +13,19 @@
 !SLIDE
 # Callbacks #
 
-    public void Activity.onCreate(Bundle arg0)
-    public void Activity.onClick(...)
-    
+!SLIDE
+
+    public void Activity.onCreate(Bundle bundle)
+    public void Activity.onPause()
+    public void onClick(View view)
+
+
+!SLIDE
+
+    @@@ruby
+    handle_create do |bundle|
+    handle_pause do
+    handle_click do |view|
+
+
+

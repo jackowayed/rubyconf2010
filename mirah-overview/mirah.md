@@ -4,11 +4,11 @@
 
 !SLIDE bullets incremental
 
-* By Charles Nutter (JRuby Core Team)
+* Charles Nutter
 * JVM language
 * Ruby-like syntax
 * Statically-typed
-* No runtime dependencies—compiles straight to Java code or Java class files
+* No runtime dependencies
 
 !SLIDE
 

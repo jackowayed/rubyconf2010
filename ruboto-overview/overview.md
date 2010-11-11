@@ -34,10 +34,3 @@
 * Write 0 Java
 * Plugins
 * Write 0 XML
-
-!SLIDE bullets incremental
-# Ways it Can Be Better #
-
-* Ruby
-* `rake update_scripts`
-* Abstractions

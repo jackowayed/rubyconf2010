@@ -7,13 +7,15 @@
 * Test Mirah
 * Kill emulator
 * Open irb
-* Open emacs with Garrett
+* Run craps in irb
+* Open emacs with Mirah and Ruby splitscreened
 * Run showoff
 * Open slides
 * Kill everything unnecessary
-* Relax
-* Phone in airplane mode
 * Turn off sound
+* Phone in airplane mode
+* Full-screen slides
+* Relax
 
 During
 
